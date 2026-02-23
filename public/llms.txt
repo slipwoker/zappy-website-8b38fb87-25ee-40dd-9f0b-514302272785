@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חוויית תה ירוק מאצ'ה יוקרתית ומשובחת. מוצרי מאצ'ה אורגנית ברמה הגבוהה ביותר למי שמחפש איכות ללא פשרות. הזמיני עכשיו והתפנקי בטעם האמיתי.
+
+### אודות
+https://example.com/about
+למדי על המסע שלנו להביא לך את מאצ'ה הטקסית האיכותית ביותר. מסורת יפנית עתיקה פוגשת אלגנטיות מודרנית. גלי את הערכים והחזון שמניעים אותנו קדימה.
+
+### אוספים
+https://example.com/collections
+עיני בקולקציה הבלעדית של מוצרי מאצ'ה פרימיום. מאצ'ה אורגנית טקסית, אבקות איכותיות ומשקאות מעודנים. כל מוצר נבחר בקפידה למען החוויה המושלמת שלך.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלות על מוצרי המאצ'ה שלנו? צוות המומחים שלנו כאן בשבילך. צרי קשר עכשיו וקבלי ייעוץ אישי, המלצות מותאמות ושירות יוקרתי ברמה הגבוהה ביותר.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Aurora
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Aurora
+
+### Category
+https://example.com/category/:slug
+מוצרים - Aurora
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
